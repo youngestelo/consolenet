@@ -1,0 +1,14 @@
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\bin\Debug\net8.0\Apps.exe
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\bin\Debug\net8.0\Apps.deps.json
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\bin\Debug\net8.0\Apps.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\bin\Debug\net8.0\Apps.dll
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\bin\Debug\net8.0\Apps.pdb
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.dll
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\refint\Apps.dll
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.pdb
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\Apps.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\ConsoleDotNet\Apps\obj\Debug\net8.0\ref\Apps.dll
