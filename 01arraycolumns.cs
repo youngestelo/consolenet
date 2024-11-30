@@ -30,11 +30,11 @@ InputColumnSwitchTo = Convert.ToInt16(Console.ReadLine()); // Конвертир
 
 if (InputColumnSwitchTo > N || InputColumnSwitchTo < 1) { Console.Write("Ошибка!"); return; }
 
---InputColumnSwitch; --InputColumnSwitchTo; // Отнимаем от пользовательских стобиков 1, чтобы была возможность обращаться к массиву
-for (int i = 0; i < M; ++i) // Используем кортеж, и меняем значения местами
+--InputColumnSwitch; --InputColumnSwitchTo; // Отнимаем от пользовательских столбиков 1, чтобы была возможность обращаться к массиву
+for (int i = 0; i < M; ++i) // Используем кортеж и меняем значения местами
     (BasicArray[i, InputColumnSwitch], BasicArray[i, InputColumnSwitchTo]) = (BasicArray[i, InputColumnSwitchTo], BasicArray[i, InputColumnSwitch]);
 
-Console.WriteLine("\nМассив с перестановкой стобиков: ");
+Console.WriteLine("\nМассив с перестановкой столбиков: ");
 for (int i = 0; i < M; ++i) // Выводим новый массив
 {
     for (int j = 0; j < N; ++j)
