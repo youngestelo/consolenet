@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02Acustomlib/1.0.0": {
+        "runtime": {
+          "02Acustomlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02Acustomlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_02Bcustomlib</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\02Acustomlib\02Acustomlib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="02Acustomlib">
+      <HintPath>..\02Acustomlib\bin\Debug\net8.0\02Acustomlib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

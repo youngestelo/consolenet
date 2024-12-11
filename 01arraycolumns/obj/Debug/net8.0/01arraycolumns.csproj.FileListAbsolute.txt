@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\bin\Debug\net8.0\01arraycolumns.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\bin\Debug\net8.0\01arraycolumns.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\bin\Debug\net8.0\01arraycolumns.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\bin\Debug\net8.0\01arraycolumns.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\bin\Debug\net8.0\01arraycolumns.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\refint\01arraycolumns.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\01arraycolumns.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\01arraycolumns\obj\Debug\net8.0\ref\01arraycolumns.dll

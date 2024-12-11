@@ -1,0 +1,12 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\bin\Debug\net8.0\02Acustomlib.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\bin\Debug\net8.0\02Acustomlib.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\bin\Debug\net8.0\02Acustomlib.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\refint\02Acustomlib.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\02Acustomlib.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\02Acustomlib\obj\Debug\net8.0\ref\02Acustomlib.dll
