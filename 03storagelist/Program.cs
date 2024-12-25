@@ -1,4 +1,4 @@
-﻿while (true)
+﻿while (true) // Вывод меню
 {
     try
     {
@@ -12,9 +12,9 @@
         Console.WriteLine("[0] Выход");
 
         Console.Write("Ваш выбор: ");
-        uint Input = Convert.ToUInt32(Console.ReadLine());
+        uint Input = Convert.ToUInt32(Console.ReadLine()); // Выбор пользователя
 
-        switch (Input)
+        switch (Input) // Работа с продуктами
         {
             case 1:
                 {
@@ -53,26 +53,26 @@
                     Stock.EditProductById(Input, InputMode);
                     break;
                 }
-            case 0: return;
-            default: throw new Exception();
+            case 0: return; // Выход
+            default: throw new Exception(); // Исключение
         }
     }
     catch { continue; }
 }
 
-class Product(string? ProductName, double ProductPrice, uint ProductQuantity)
+class Product(string? ProductName, double ProductPrice, uint ProductQuantity) // Продукт (primary ctor)
 {
     internal string? ProductName { get; set; } = ProductName;
     internal double ProductPrice { get; set; } = ProductPrice;
     internal uint ProductQuantity { get; set; } = ProductQuantity;
 };
 
-static class Stock
+static class Stock // Склад с продуктами
 {
-    static private readonly List<Product>? Products;
-    static Stock() { Products = []; Products.Capacity = 0; }
+    static private readonly List<Product>? Products; // Коллекция 
+    static Stock() { Products = []; Products.Capacity = 0; } // Инициализации (необязательные)
 
-    static public void ViewAllProducts()
+    static public void ViewAllProducts() // Просмотреть все продукты в коллекции
     {
         if (Products is null || Products.Count == 0) 
         { Console.WriteLine("Список пуст!"); return; };
@@ -85,17 +85,17 @@ static class Stock
         }
     }
 
-    static public void DeleteProductById(uint Index)
+    static public void DeleteProductById(uint Index) // Удалить продукт в коллекции по индексу
     {
         if (Index <= Products?.Count && Index >= 0)
         { Products?.RemoveAt((int)Index - 1); }
     }
 
-    static public void EditProductById(uint Index, uint Mode)
+    static public void EditProductById(uint Index, uint Mode) // Изменить свойства продукта по индексу
     {
         if (Products is null || Index > Products?.Count || Index < 0) return;
 
-        switch (Mode)
+        switch (Mode) // Что менять?
         {
             case 1:
                 {
@@ -126,5 +126,5 @@ static class Stock
 
     }
 
-    static public void AddProduct(Product SampleObject) => Products?.Add(SampleObject);
+    static public void AddProduct(Product SampleObject) => Products?.Add(SampleObject); // Добавить существующий продукт
 };
