@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\bin\Debug\net8.0\03storagelist.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\bin\Debug\net8.0\03storagelist.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\bin\Debug\net8.0\03storagelist.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\bin\Debug\net8.0\03storagelist.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\bin\Debug\net8.0\03storagelist.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\refint\03storagelist.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\03storagelist.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\03storagelist\obj\Debug\net8.0\ref\03storagelist.dll
