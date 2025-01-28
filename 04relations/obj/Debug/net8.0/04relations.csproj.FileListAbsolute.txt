@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\bin\Debug\net8.0\04relations.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\bin\Debug\net8.0\04relations.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\bin\Debug\net8.0\04relations.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\bin\Debug\net8.0\04relations.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\bin\Debug\net8.0\04relations.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\refint\04relations.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\04relations.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\04relations\obj\Debug\net8.0\ref\04relations.dll

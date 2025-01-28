@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\bin\Debug\net8.0\05units.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\bin\Debug\net8.0\05units.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\bin\Debug\net8.0\05units.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\bin\Debug\net8.0\05units.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\bin\Debug\net8.0\05units.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\refint\05units.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\05units.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\05units\obj\Debug\net8.0\ref\05units.dll
