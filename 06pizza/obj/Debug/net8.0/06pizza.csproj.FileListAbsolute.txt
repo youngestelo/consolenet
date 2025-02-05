@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06pizza.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06pizza.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06pizza.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06pizza.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06pizza.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\refint\06pizza.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06pizza.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\ref\06pizza.dll

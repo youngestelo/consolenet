@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06decorator.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06decorator.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06decorator.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06decorator.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\bin\Debug\net8.0\06decorator.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\refint\06decorator.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\06decorator.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\06pizza\obj\Debug\net8.0\ref\06decorator.dll
