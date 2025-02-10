@@ -33,15 +33,15 @@ while (true)
 
         Offer = menuChoice switch
         {
-            1 =>  new DecoratorMozzarella(Offer),
-            2 =>  new DecoratorParmezan(Offer),
-            3 =>  new DecoratorGorgonzola(Offer),
-            4 =>  new DecoratorPepperoni(Offer),
-            5 =>  new DecoratorHam(Offer),
-            6 =>  new DecoratorBacon(Offer),
-            7 =>  new DecoratorChicken(Offer),
-            8 =>  new DecoratorBeef(Offer),
-            9 =>  new DecoratorChampignons(Offer),
+            1  => new DecoratorMozzarella(Offer),
+            2  => new DecoratorParmezan(Offer),
+            3  => new DecoratorGorgonzola(Offer),
+            4  => new DecoratorPepperoni(Offer),
+            5  => new DecoratorHam(Offer),
+            6  => new DecoratorBacon(Offer),
+            7  => new DecoratorChicken(Offer),
+            8  => new DecoratorBeef(Offer),
+            9  => new DecoratorChampignons(Offer),
             10 => new DecoratorShrooms(Offer),
             11 => new DecoratorTomatoes(Offer),
             12 => new DecoratorPepper(Offer),
@@ -51,7 +51,7 @@ while (true)
             16 => new DecoratorSauceBarbecue(Offer),
             17 => new DecoratorSauceGarlic(Offer),
             18 => new DecoratorSaucePesto(Offer),
-            _ => throw new Exception()
+            _  => throw new Exception()
         };
         Console.Clear(); Console.WriteLine("\x1b[3J");
     }

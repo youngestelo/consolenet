@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\bin\Debug\net8.0\07generic.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\bin\Debug\net8.0\07generic.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\bin\Debug\net8.0\07generic.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\bin\Debug\net8.0\07generic.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\bin\Debug\net8.0\07generic.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\refint\07generic.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\07generic.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\07generic\obj\Debug\net8.0\ref\07generic.dll
