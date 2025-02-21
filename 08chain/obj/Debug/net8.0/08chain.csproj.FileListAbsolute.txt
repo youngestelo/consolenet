@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\bin\Debug\net8.0\08chain.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\bin\Debug\net8.0\08chain.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\bin\Debug\net8.0\08chain.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\bin\Debug\net8.0\08chain.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\bin\Debug\net8.0\08chain.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\refint\08chain.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\08chain.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\08chain\obj\Debug\net8.0\ref\08chain.dll

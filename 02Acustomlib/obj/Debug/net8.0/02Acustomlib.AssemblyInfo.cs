@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02Acustomlib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2517d49c4ed9769a166ed986dd0eea076d86263")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01253ae9946a8b83bb4a5e51abdf03bceca2d51f")]
 [assembly: System.Reflection.AssemblyProductAttribute("02Acustomlib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02Acustomlib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
