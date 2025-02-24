@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\bin\Debug\net8.0\09delegates.exe
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\bin\Debug\net8.0\09delegates.deps.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\bin\Debug\net8.0\09delegates.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\bin\Debug\net8.0\09delegates.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\bin\Debug\net8.0\09delegates.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.sourcelink.json
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\refint\09delegates.dll
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.pdb
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\09delegates.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\dotnetapps\09delegates\obj\Debug\net8.0\ref\09delegates.dll
