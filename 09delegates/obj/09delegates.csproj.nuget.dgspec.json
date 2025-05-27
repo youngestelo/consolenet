@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\09delegates\\09delegates.csproj": {}
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\09delegates\\09delegates.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\09delegates\\09delegates.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\09delegates\\09delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\09delegates\\09delegates.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\09delegates\\09delegates.csproj",
         "projectName": "09delegates",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\09delegates\\09delegates.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\09delegates\\09delegates.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\09delegates\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\09delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

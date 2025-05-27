@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07generic", "07generic\07ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08chain", "08chain\08chain.csproj", "{9F91949B-C444-4A2E-BF11-FE61939DE93F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09delegates", "09delegates\09delegates.csproj", "{BF3729AD-0394-4A4D-8163-D55161EE0002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09delegates", "09delegates\09delegates.csproj", "{BF3729AD-0394-4A4D-8163-D55161EE0002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10threads", "10threads\10threads.csproj", "{FFF4895E-5516-4FC1-A724-9276F1754319}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{BF3729AD-0394-4A4D-8163-D55161EE0002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3729AD-0394-4A4D-8163-D55161EE0002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3729AD-0394-4A4D-8163-D55161EE0002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF4895E-5516-4FC1-A724-9276F1754319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF4895E-5516-4FC1-A724-9276F1754319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF4895E-5516-4FC1-A724-9276F1754319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF4895E-5516-4FC1-A724-9276F1754319}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\04relations\\04relations.csproj": {}
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\04relations\\04relations.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\04relations\\04relations.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\04relations\\04relations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\04relations\\04relations.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\04relations\\04relations.csproj",
         "projectName": "04relations",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\04relations\\04relations.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\04relations\\04relations.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\04relations\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\04relations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

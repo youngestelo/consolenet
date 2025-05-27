@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\07generic\\07generic.csproj": {}
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\07generic\\07generic.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\07generic\\07generic.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\07generic\\07generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\07generic\\07generic.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\07generic\\07generic.csproj",
         "projectName": "07generic",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\07generic\\07generic.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\07generic\\07generic.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\07generic\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\07generic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

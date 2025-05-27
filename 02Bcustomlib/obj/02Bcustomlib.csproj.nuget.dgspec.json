@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj": {}
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
         "projectName": "02Acustomlib",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj",
         "projectName": "02Bcustomlib",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Bcustomlib\\02Bcustomlib.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Bcustomlib\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Bcustomlib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj": {
-                "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj"
+              "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj": {
+                "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj"
               }
             }
           }

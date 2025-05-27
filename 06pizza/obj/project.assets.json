@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\06pizza\\06decorator.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\06pizza\\06decorator.csproj",
       "projectName": "06decorator",
-      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\06pizza\\06decorator.csproj",
+      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\06pizza\\06decorator.csproj",
       "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\06pizza\\obj\\",
+      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\06pizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\05units\\05units.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\05units\\05units.csproj",
       "projectName": "05units",
-      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\05units\\05units.csproj",
+      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\05units\\05units.csproj",
       "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\05units\\obj\\",
+      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\05units\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

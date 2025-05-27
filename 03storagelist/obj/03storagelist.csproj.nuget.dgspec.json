@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\03storagelist\\03storagelist.csproj": {}
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\03storagelist\\03storagelist.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\03storagelist\\03storagelist.csproj": {
+    "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\03storagelist\\03storagelist.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\03storagelist\\03storagelist.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\03storagelist\\03storagelist.csproj",
         "projectName": "03storagelist",
-        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\03storagelist\\03storagelist.csproj",
+        "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\03storagelist\\03storagelist.csproj",
         "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\03storagelist\\obj\\",
+        "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\03storagelist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

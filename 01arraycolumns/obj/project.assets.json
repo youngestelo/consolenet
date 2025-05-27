@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\01arraycolumns\\01arraycolumns.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\01arraycolumns\\01arraycolumns.csproj",
       "projectName": "01arraycolumns",
-      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\01arraycolumns\\01arraycolumns.csproj",
+      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\01arraycolumns\\01arraycolumns.csproj",
       "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\01arraycolumns\\obj\\",
+      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\01arraycolumns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

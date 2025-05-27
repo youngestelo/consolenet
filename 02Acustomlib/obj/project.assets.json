@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
       "projectName": "02Acustomlib",
-      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
+      "projectPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\02Acustomlib.csproj",
       "packagesPath": "C:\\Users\\elisey\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\dotnetapps\\02Acustomlib\\obj\\",
+      "outputPath": "C:\\Хранилище\\Visual Studio Projects\\C#\\dotnetapps\\02Acustomlib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisey\\AppData\\Roaming\\NuGet\\NuGet.Config",

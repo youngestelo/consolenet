@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\bin\Debug\net8.0\10threads.exe
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\bin\Debug\net8.0\10threads.deps.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\bin\Debug\net8.0\10threads.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\bin\Debug\net8.0\10threads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\bin\Debug\net8.0\10threads.pdb
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.sourcelink.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\refint\10threads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.pdb
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\10threads.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\10threads\obj\Debug\net8.0\ref\10threads.dll
