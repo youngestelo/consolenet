@@ -1,0 +1,15 @@
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\bin\Debug\net8.0\11readingfilesviathreads.exe
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\bin\Debug\net8.0\11readingfilesviathreads.deps.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\bin\Debug\net8.0\11readingfilesviathreads.runtimeconfig.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\bin\Debug\net8.0\11readingfilesviathreads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\bin\Debug\net8.0\11readingfilesviathreads.pdb
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.AssemblyInfoInputs.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.AssemblyInfo.cs
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.csproj.CoreCompileInputs.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.sourcelink.json
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\refint\11readingfilesviathreads.dll
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.pdb
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\11readingfilesviathreads.genruntimeconfig.cache
+C:\Хранилище\Visual Studio Projects\C#\dotnetapps\11readingfilesviathreads\obj\Debug\net8.0\ref\11readingfilesviathreads.dll
